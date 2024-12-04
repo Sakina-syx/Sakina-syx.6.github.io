@@ -1,4 +1,4 @@
-# Web-p2
+# Web-p6-syx
 
 ## Project setup
 ```
